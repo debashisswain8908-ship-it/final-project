@@ -1,0 +1,6 @@
+{
+  "name": "BRSR Portal - Corporate ESG Reporting & Verification Engine",
+  "description": "Secure Business Responsibility and Sustainability Reporting (BRSR) portal for corporate ESG compliance with role-based authentication, analyst recalculation engine, and cryptographic data security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
